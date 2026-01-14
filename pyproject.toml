@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "MCP para keyword research y análisis de entidades"
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
-dependencies = ["fastmcp==2.14.3",
+dependencies = ["fastmcp==2.12.3",
     "aiohttp==3.12.11",
     "crawl4ai==0.6.3",
     "mcp>=1.24.0,<2.0",
